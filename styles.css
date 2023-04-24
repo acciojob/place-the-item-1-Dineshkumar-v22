@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	font-size:40px;
+	
+}
+.item{
+	background-color:green;
+	width:100px;
+	height:100px
+	
+}
+.item1{
+	background-color:red;
+	width:100px;
+	height:100px
+}
+.item2{
+	background-color:blue;
+	width:100px;
+	height:100px
+}
